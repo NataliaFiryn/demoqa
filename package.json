@@ -17,6 +17,7 @@
   "homepage": "https://github.com/NataliaFiryn/demoqa#readme",
   "devDependencies": {
     "@playwright/test": "^1.40.1",
-    "@types/node": "^20.10.6"
+    "@types/node": "^20.10.6",
+    "eslint-config-prettier": "^9.1.0"
   }
 }
